@@ -1,0 +1,5 @@
+{
+  "name": "AI Study-Test Site",
+  "description": "An AI-powered tool for study groups to create quizzes from topics, grade answers automatically, and get detailed performance reports for individuals and the group.",
+  "requestFramePermissions": []
+}
